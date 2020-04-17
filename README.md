@@ -16,3 +16,5 @@ The face_recognition  library, created by Adam Geitgey, wraps around dlib’s fa
 MEMBERS DUTIES:
 
 Aurora-Frisby, installing the libraries needed to actually perform our face recognition
+
+Ruth-King, building our custom face recognition dataset
