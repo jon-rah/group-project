@@ -14,3 +14,4 @@ The dlib library, maintained by Davis King, contains our implementation of “de
 The face_recognition  library, created by Adam Geitgey, wraps around dlib’s facial recognition functionality, making it easier to work with.
 
 MEMBERS DUTIES:
+Aurora-Frisby, installing the libraries needed to actually perform our face recognition
