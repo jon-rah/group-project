@@ -20,3 +20,5 @@ Aurora-Frisby, installing the libraries needed to actually perform our face reco
 Ruth-King, building our custom face recognition dataset
 
 Jon-Rah, implementing face recognition for both still images and video streams
+
+Myles-Corrigan, in charge of everything VR related 
