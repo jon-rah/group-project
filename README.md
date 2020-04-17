@@ -18,4 +18,5 @@ MEMBERS DUTIES:
 Aurora-Frisby, installing the libraries needed to actually perform our face recognition
 
 Ruth-King, building our custom face recognition dataset
+
 Jon-Rah, implementing face recognition for both still images and video streams
